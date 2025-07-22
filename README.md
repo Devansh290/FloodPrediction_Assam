@@ -68,5 +68,4 @@ This project explores the feasibility of predicting floods in the Indian state o
 - Explore spatiotemporal deep learning models (e.g., LSTM, CNN).
 - Expand model for other monsoon-affected regions.
 
-## Project Structure
 
